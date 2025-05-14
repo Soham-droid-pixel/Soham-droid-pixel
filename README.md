@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soham Santosh Kalgutkar</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Explorer | Builder at Heart</h3>
+<h3 align="center">🚀 A Curious Mind | Full Stack & AI/ML Enthusiast | Builder at Heart</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00b2ff&center=true&lines=Computer+Engineering+Student+from+Mumbai;Full-Stack+Developer+%7C+AI+%2B+ML+Enthusiast;Building+Projects+with+Purpose;Always+Learning+and+Experimenting" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00b2ff&lines=Computer+Engineering+Student+from+Mumbai;Full-Stack+Web+Developer;AI+%26+ML+Explorer;Always+Learning+New+Things" />
 </p>
 
+---
 ---
 
 ## 🧑‍💻 About Me
