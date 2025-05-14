@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00b2ff&lines=Computer+Engineering+Student+from+Mumbai;Full-Stack+Web+Developer;AI+%26+ML+Explorer;Always+Learning+New+Things" />
 </p>
 
----
+
 ---
 
 ## 🧑‍💻 About Me
