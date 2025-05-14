@@ -51,6 +51,10 @@ I'm a Computer Engineering student currently pursuing my degree, driven by a dee
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soham-droid-pixel&show_icons=true&theme=radical&hide_border=true&hide_title=true)
 
+### 🔝 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-droid-pixel&layout=compact&theme=radical&hide_border=true)
+
 ---
 
 ## 📫 Connect with Me
